@@ -225,3 +225,51 @@ Driver info: org.openqa.selenium.chrome.ChromeDriver
 Command: [411726f605f486221ab11d2a23ed0cd0, findElement {value=//*[text()=" Your order is eligible for FREE Delivery. "], using=xpath}]
 Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.78, chrome: {chromedriverVersion: 125.0.6422.78 (14db42ec38ad..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57758}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57758/devtoo..., se:cdpVersion: 125.0.6422.78, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
 Session ID: 411726f605f486221ab11d2a23ed0cd0
+2024-05-26 16:04:45 INFO  Base:63 - Logo is Displayed
+2024-05-26 16:04:46 INFO  Base:91 - Pin Selected
+2024-05-26 16:04:47 INFO  Base:105 - Screenshot Captured: 208022
+2024-05-26 16:04:51 INFO  Base:126 - Pin Correct: 208022
+2024-05-26 16:04:59 INFO  Base:63 - Logo is Displayed
+2024-05-26 16:05:00 INFO  Base:91 - Pin Selected
+2024-05-26 16:05:01 INFO  Base:105 - Screenshot Captured: 101010
+2024-05-26 16:05:02 INFO  Base:119 - Pin Incorrect: 101010
+2024-05-26 16:05:08 INFO  Base:63 - Logo is Displayed
+2024-05-26 16:05:09 INFO  Base:91 - Pin Selected
+2024-05-26 16:05:10 INFO  Base:105 - Screenshot Captured: 121007
+2024-05-26 16:05:14 INFO  Base:126 - Pin Correct: 121007
+2024-05-26 16:05:20 INFO  Base:63 - Logo is Displayed
+2024-05-26 16:05:20 INFO  Base:91 - Pin Selected
+2024-05-26 16:05:21 INFO  Base:105 - Screenshot Captured: 110001
+2024-05-26 16:05:25 INFO  Base:126 - Pin Correct: 110001
+2024-05-26 16:05:59 INFO  Base:63 - Logo is Displayed
+2024-05-26 16:06:00 INFO  Base:91 - Pin Selected
+2024-05-26 16:06:02 INFO  Base:105 - Screenshot Captured: 208022
+2024-05-26 16:06:06 INFO  Base:126 - Pin Correct: 208022
+2024-05-26 16:06:13 INFO  Base:63 - Logo is Displayed
+2024-05-26 16:06:13 INFO  Base:91 - Pin Selected
+2024-05-26 16:06:15 INFO  Base:105 - Screenshot Captured: 101010
+2024-05-26 16:06:16 INFO  Base:119 - Pin Incorrect: 101010
+2024-05-26 16:06:23 INFO  Base:63 - Logo is Displayed
+2024-05-26 16:06:23 INFO  Base:91 - Pin Selected
+2024-05-26 16:06:24 INFO  Base:105 - Screenshot Captured: 121007
+2024-05-26 16:06:28 INFO  Base:126 - Pin Correct: 121007
+2024-05-26 16:06:35 INFO  Base:63 - Logo is Displayed
+2024-05-26 16:06:35 INFO  Base:91 - Pin Selected
+2024-05-26 16:06:37 INFO  Base:105 - Screenshot Captured: 110001
+2024-05-26 16:06:41 INFO  Base:126 - Pin Correct: 110001
+2024-05-26 16:16:47 INFO  Base:63 - Logo is Displayed
+2024-05-26 16:16:48 INFO  Base:91 - Pin Selected
+2024-05-26 16:16:49 INFO  Base:105 - Screenshot Captured: 208022
+2024-05-26 16:16:54 INFO  Base:126 - Pin Correct: 208022
+2024-05-26 16:17:03 INFO  Base:63 - Logo is Displayed
+2024-05-26 16:17:04 INFO  Base:91 - Pin Selected
+2024-05-26 16:17:06 INFO  Base:105 - Screenshot Captured: 101010
+2024-05-26 16:17:07 INFO  Base:119 - Pin Incorrect: 101010
+2024-05-26 16:17:15 INFO  Base:63 - Logo is Displayed
+2024-05-26 16:17:15 INFO  Base:91 - Pin Selected
+2024-05-26 16:17:17 INFO  Base:105 - Screenshot Captured: 121007
+2024-05-26 16:17:21 INFO  Base:126 - Pin Correct: 121007
+2024-05-26 16:17:28 INFO  Base:63 - Logo is Displayed
+2024-05-26 16:17:29 INFO  Base:91 - Pin Selected
+2024-05-26 16:17:31 INFO  Base:105 - Screenshot Captured: 110001
+2024-05-26 16:17:35 INFO  Base:126 - Pin Correct: 110001
