@@ -1,0 +1,227 @@
+2024-05-26 01:10:27 INFO  Base:61 - Logo is Displayed
+2024-05-26 01:10:27 INFO  Base:89 - Pin Selected
+2024-05-26 01:10:28 INFO  Base:103 - Screenshot Captured: 208022
+2024-05-26 01:10:32 INFO  Base:124 - Pin Correct: 208022
+2024-05-26 01:10:35 INFO  Base:61 - Logo is Displayed
+2024-05-26 01:10:36 INFO  Base:89 - Pin Selected
+2024-05-26 01:10:37 INFO  Base:103 - Screenshot Captured: 101010
+2024-05-26 01:10:37 INFO  Base:117 - Pin Incorrect: 101010
+2024-05-26 01:10:41 INFO  Base:61 - Logo is Displayed
+2024-05-26 01:10:41 INFO  Base:89 - Pin Selected
+2024-05-26 01:10:42 INFO  Base:103 - Screenshot Captured: 121007
+2024-05-26 01:10:45 INFO  Base:124 - Pin Correct: 121007
+2024-05-26 01:10:49 INFO  Base:61 - Logo is Displayed
+2024-05-26 01:10:49 INFO  Base:89 - Pin Selected
+2024-05-26 01:10:50 INFO  Base:103 - Screenshot Captured: 110001
+2024-05-26 01:10:54 INFO  Base:124 - Pin Correct: 1100012024-05-26 01:12:15 INFO  Base:61 - Logo is Displayed
+2024-05-26 01:12:17 INFO  Base:136 - Navigated to Customer Service page
+2024-05-26 01:12:18 INFO  Base:69 - Word Searched in HelpBox: Prime Gaming
+2024-05-26 01:12:18 INFO  Base:73 - Prime Gaming is displayed
+2024-05-26 01:12:19 INFO  Base:45 - Prime Gaming clicked
+2024-05-26 01:12:20 INFO  Base:55 - Get Started clicked
+2024-05-26 01:12:20 INFO  Base:85 - Screenshot captured successfully
+2024-05-26 01:20:20 INFO  Base:61 - Logo is Displayed
+2024-05-26 01:20:22 INFO  Base:73 - Search item sent: laptop
+2024-05-26 01:20:28 INFO  Base:61 - Logo is Displayed
+2024-05-26 01:20:30 INFO  Base:73 - Search item sent: phone
+2024-05-26 01:20:35 INFO  Base:61 - Logo is Displayed
+2024-05-26 01:20:37 INFO  Base:73 - Search item sent: dslr
+2024-05-26 01:25:18 INFO  Base:61 - Logo is Displayed
+2024-05-26 01:25:21 INFO  Base:73 - Search item sent: pen
+2024-05-26 01:25:21 INFO  Base:63 - Results Page is visible
+2024-05-26 01:25:21 INFO  Base:74 - Range set from100to0
+2024-05-26 01:25:22 INFO  Base:80 - Filtered results displayed
+2024-05-26 01:25:25 INFO  Base:61 - Logo is Displayed
+2024-05-26 01:25:29 INFO  Base:73 - Search item sent: clock
+2024-05-26 01:25:29 INFO  Base:63 - Results Page is visible
+2024-05-26 01:25:29 INFO  Base:74 - Range set from499to0
+2024-05-26 01:25:30 INFO  Base:80 - Filtered results displayed
+2024-05-26 01:25:33 INFO  Base:61 - Logo is Displayed
+2024-05-26 01:25:35 INFO  Base:73 - Search item sent: watch
+2024-05-26 01:25:35 INFO  Base:63 - Results Page is visible
+2024-05-26 01:25:36 INFO  Base:74 - Range set from1000to0
+2024-05-26 01:25:37 INFO  Base:80 - Filtered results displayed
+2024-05-26 01:27:14 INFO  Base:61 - Logo is Displayed
+2024-05-26 01:27:16 INFO  Base:73 - Search item sent: pen
+2024-05-26 01:27:16 INFO  Base:63 - Results Page is visible
+2024-05-26 01:27:17 INFO  Base:74 - Range set from100to0
+2024-05-26 01:27:18 INFO  Base:80 - Filtered results displayed
+2024-05-26 01:27:23 ERROR Base:41 - Exception: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()=" Your order is eligible for FREE Delivery. "]"}
+  (Session info: chrome=125.0.6422.78)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d1f125ba60ff122075414b916533305c, findElement {value=//*[text()=" Your order is eligible for FREE Delivery. "], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.78, chrome: {chromedriverVersion: 125.0.6422.78 (14db42ec38ad..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55893}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55893/devtoo..., se:cdpVersion: 125.0.6422.78, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d1f125ba60ff122075414b916533305c
+2024-05-26 01:31:39 INFO  Base:61 - Logo is Displayed
+2024-05-26 01:31:42 INFO  Base:73 - Search item sent: pen
+2024-05-26 01:31:42 INFO  Base:63 - Results Page is visible
+2024-05-26 01:31:42 INFO  Base:74 - Range set from100to0
+2024-05-26 01:31:43 INFO  Base:80 - Filtered results displayed
+2024-05-26 01:31:45 INFO  Base:110 - Item added successfully
+2024-05-26 01:31:48 INFO  Base:124 - Navigated to Cart Page
+2024-05-26 01:31:48 INFO  Base:32 - Screenshot captured for Cart.
+2024-05-26 01:31:48 INFO  Base:42 - Delivery is free
+2024-05-26 01:31:53 INFO  Base:61 - Logo is Displayed
+2024-05-26 01:31:56 INFO  Base:73 - Search item sent: clock
+2024-05-26 01:31:56 INFO  Base:63 - Results Page is visible
+2024-05-26 01:31:57 INFO  Base:74 - Range set from499to0
+2024-05-26 01:31:58 INFO  Base:80 - Filtered results displayed
+2024-05-26 01:31:59 INFO  Base:110 - Item added successfully
+2024-05-26 01:32:02 INFO  Base:124 - Navigated to Cart Page
+2024-05-26 01:32:02 INFO  Base:32 - Screenshot captured for Cart.
+2024-05-26 01:32:02 INFO  Base:42 - Delivery is free
+2024-05-26 01:32:06 INFO  Base:61 - Logo is Displayed
+2024-05-26 01:32:09 INFO  Base:73 - Search item sent: watch
+2024-05-26 01:32:09 INFO  Base:63 - Results Page is visible
+2024-05-26 01:32:09 INFO  Base:74 - Range set from1000to0
+2024-05-26 01:32:09 INFO  Base:80 - Filtered results displayed
+2024-05-26 01:34:53 INFO  Base:61 - Logo is Displayed
+2024-05-26 01:34:55 INFO  Base:73 - Search item sent: pen
+2024-05-26 01:34:55 INFO  Base:63 - Results Page is visible
+2024-05-26 01:34:55 INFO  Base:76 - Range set from100to0
+2024-05-26 01:34:56 INFO  Base:82 - Filtered results displayed
+2024-05-26 01:34:56 ERROR Base:122 - Exception: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//button[contains(text(), "Add to cart")])[1]"}
+  (Session info: chrome=125.0.6422.78)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [03b4967e24540e2926f227b07a82dd6f, findElement {using=xpath, value=(//button[contains(text(), "Add to cart")])[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.78, chrome: {chromedriverVersion: 125.0.6422.78 (14db42ec38ad..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56434}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56434/devtoo..., se:cdpVersion: 125.0.6422.78, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 03b4967e24540e2926f227b07a82dd6f
+2024-05-26 01:34:57 INFO  Base:132 - Navigated to Cart Page
+2024-05-26 01:34:57 INFO  Base:32 - Screenshot captured for Cart.
+2024-05-26 01:34:57 INFO  Base:46 - Delivery is not free.
+2024-05-26 01:34:57 ERROR Base:48 - Exception: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()=" Your order is eligible for FREE Delivery. "]"}
+  (Session info: chrome=125.0.6422.78)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [03b4967e24540e2926f227b07a82dd6f, findElement {using=xpath, value=//*[text()=" Your order is eligible for FREE Delivery. "]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.78, chrome: {chromedriverVersion: 125.0.6422.78 (14db42ec38ad..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56434}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56434/devtoo..., se:cdpVersion: 125.0.6422.78, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 03b4967e24540e2926f227b07a82dd6f
+2024-05-26 01:35:00 INFO  Base:61 - Logo is Displayed
+2024-05-26 01:35:02 INFO  Base:73 - Search item sent: clock
+2024-05-26 01:35:02 INFO  Base:63 - Results Page is visible
+2024-05-26 01:35:03 INFO  Base:76 - Range set from499to0
+2024-05-26 01:35:04 INFO  Base:82 - Filtered results displayed
+2024-05-26 01:35:05 INFO  Base:112 - Item added successfully
+2024-05-26 01:35:08 INFO  Base:132 - Navigated to Cart Page
+2024-05-26 01:35:08 INFO  Base:32 - Screenshot captured for Cart.
+2024-05-26 01:35:08 INFO  Base:42 - Delivery is free
+2024-05-26 01:35:13 INFO  Base:61 - Logo is Displayed
+2024-05-26 01:35:16 INFO  Base:73 - Search item sent: watch
+2024-05-26 01:35:16 INFO  Base:63 - Results Page is visible
+2024-05-26 01:35:16 INFO  Base:76 - Range set from1000to0
+2024-05-26 01:35:17 INFO  Base:82 - Filtered results displayed
+2024-05-26 01:35:17 ERROR Base:122 - Exception: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//button[contains(text(), "Add to cart")])[1]"}
+  (Session info: chrome=125.0.6422.78)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [465689a4d5a217c7f1acd261a54dba98, findElement {using=xpath, value=(//button[contains(text(), "Add to cart")])[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.78, chrome: {chromedriverVersion: 125.0.6422.78 (14db42ec38ad..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56610}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56610/devtoo..., se:cdpVersion: 125.0.6422.78, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 465689a4d5a217c7f1acd261a54dba98
+2024-05-26 01:35:17 INFO  Base:132 - Navigated to Cart Page
+2024-05-26 01:35:18 INFO  Base:32 - Screenshot captured for Cart.
+2024-05-26 01:35:18 INFO  Base:46 - Delivery is not free.
+2024-05-26 01:35:18 ERROR Base:48 - Exception: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()=" Your order is eligible for FREE Delivery. "]"}
+  (Session info: chrome=125.0.6422.78)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [465689a4d5a217c7f1acd261a54dba98, findElement {using=xpath, value=//*[text()=" Your order is eligible for FREE Delivery. "]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.78, chrome: {chromedriverVersion: 125.0.6422.78 (14db42ec38ad..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56610}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56610/devtoo..., se:cdpVersion: 125.0.6422.78, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 465689a4d5a217c7f1acd261a54dba98
+2024-05-26 01:46:56 INFO  Base:63 - Logo is Displayed
+2024-05-26 01:46:56 INFO  Base:91 - Pin Selected
+2024-05-26 01:46:57 INFO  Base:105 - Screenshot Captured: 208022
+2024-05-26 01:47:01 INFO  Base:126 - Pin Correct: 208022
+2024-05-26 01:47:05 INFO  Base:63 - Logo is Displayed
+2024-05-26 01:47:05 INFO  Base:91 - Pin Selected
+2024-05-26 01:47:06 INFO  Base:105 - Screenshot Captured: 101010
+2024-05-26 01:47:07 INFO  Base:119 - Pin Incorrect: 101010
+2024-05-26 01:47:10 INFO  Base:63 - Logo is Displayed
+2024-05-26 01:47:10 INFO  Base:91 - Pin Selected
+2024-05-26 01:47:11 INFO  Base:105 - Screenshot Captured: 121007
+2024-05-26 01:47:15 INFO  Base:126 - Pin Correct: 121007
+2024-05-26 01:47:19 INFO  Base:63 - Logo is Displayed
+2024-05-26 01:47:19 INFO  Base:91 - Pin Selected
+2024-05-26 01:47:20 INFO  Base:105 - Screenshot Captured: 110001
+2024-05-26 01:47:22 INFO  Base:126 - Pin Correct: 110001
+2024-05-26 01:47:25 INFO  Base:63 - Logo is Displayed
+2024-05-26 01:47:27 INFO  Base:138 - Navigated to Customer Service page
+2024-05-26 01:47:44 INFO  Base:63 - Logo is Displayed
+2024-05-26 01:47:47 INFO  Base:75 - Search item sent: laptop
+2024-05-26 01:47:47 INFO  Base:65 - Results Page is visible
+2024-05-26 01:47:47 INFO  Base:78 - Range set from10000to50000
+2024-05-26 01:47:48 INFO  Base:84 - Filtered results displayed
+2024-05-26 01:47:52 INFO  Base:63 - Logo is Displayed
+2024-05-26 01:47:54 INFO  Base:75 - Search item sent: phone
+2024-05-26 01:47:54 INFO  Base:65 - Results Page is visible
+2024-05-26 01:47:54 INFO  Base:78 - Range set from30000to80000
+2024-05-26 01:47:55 INFO  Base:84 - Filtered results displayed
+2024-05-26 01:47:59 INFO  Base:63 - Logo is Displayed
+2024-05-26 01:48:01 INFO  Base:75 - Search item sent: dslr
+2024-05-26 01:48:01 INFO  Base:65 - Results Page is visible
+2024-05-26 01:48:01 INFO  Base:78 - Range set from25000to30000
+2024-05-26 01:48:03 INFO  Base:84 - Filtered results displayed
+2024-05-26 01:48:07 INFO  Base:63 - Logo is Displayed
+2024-05-26 01:48:09 INFO  Base:75 - Search item sent: pen
+2024-05-26 01:48:10 INFO  Base:65 - Results Page is visible
+2024-05-26 01:48:10 INFO  Base:78 - Range set from100to0
+2024-05-26 01:48:11 INFO  Base:84 - Filtered results displayed
+2024-05-26 01:48:12 INFO  Base:114 - Item added successfully
+2024-05-26 01:48:15 INFO  Base:134 - Navigated to Cart Page
+2024-05-26 01:48:15 INFO  Base:34 - Screenshot captured for Cart.
+2024-05-26 01:48:15 INFO  Base:44 - Delivery is free
+2024-05-26 01:48:19 INFO  Base:63 - Logo is Displayed
+2024-05-26 01:48:21 INFO  Base:75 - Search item sent: clock
+2024-05-26 01:48:21 INFO  Base:65 - Results Page is visible
+2024-05-26 01:48:21 INFO  Base:78 - Range set from499to0
+2024-05-26 01:48:23 INFO  Base:84 - Filtered results displayed
+2024-05-26 01:48:24 INFO  Base:114 - Item added successfully
+2024-05-26 01:48:27 INFO  Base:134 - Navigated to Cart Page
+2024-05-26 01:48:27 INFO  Base:34 - Screenshot captured for Cart.
+2024-05-26 01:48:27 INFO  Base:48 - Delivery is not free.
+2024-05-26 01:48:27 ERROR Base:50 - Exception: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()=" Your order is eligible for FREE Delivery. "]"}
+  (Session info: chrome=125.0.6422.78)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0a95d287236f559ea4c1e28bc2d3f6e1, findElement {value=//*[text()=" Your order is eligible for FREE Delivery. "], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.78, chrome: {chromedriverVersion: 125.0.6422.78 (14db42ec38ad..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57646}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57646/devtoo..., se:cdpVersion: 125.0.6422.78, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0a95d287236f559ea4c1e28bc2d3f6e1
+2024-05-26 01:48:31 INFO  Base:63 - Logo is Displayed
+2024-05-26 01:48:33 INFO  Base:75 - Search item sent: watch
+2024-05-26 01:48:33 INFO  Base:65 - Results Page is visible
+2024-05-26 01:48:33 INFO  Base:78 - Range set from1000to0
+2024-05-26 01:48:35 INFO  Base:84 - Filtered results displayed
+2024-05-26 01:48:35 ERROR Base:124 - Exception: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//button[contains(text(), "Add to cart")])[1]"}
+  (Session info: chrome=125.0.6422.78)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [411726f605f486221ab11d2a23ed0cd0, findElement {value=(//button[contains(text(), "Add to cart")])[1], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.78, chrome: {chromedriverVersion: 125.0.6422.78 (14db42ec38ad..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57758}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57758/devtoo..., se:cdpVersion: 125.0.6422.78, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 411726f605f486221ab11d2a23ed0cd0
+2024-05-26 01:48:35 INFO  Base:134 - Navigated to Cart Page
+2024-05-26 01:48:36 INFO  Base:34 - Screenshot captured for Cart.
+2024-05-26 01:48:36 INFO  Base:48 - Delivery is not free.
+2024-05-26 01:48:36 ERROR Base:50 - Exception: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()=" Your order is eligible for FREE Delivery. "]"}
+  (Session info: chrome=125.0.6422.78)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [411726f605f486221ab11d2a23ed0cd0, findElement {value=//*[text()=" Your order is eligible for FREE Delivery. "], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.78, chrome: {chromedriverVersion: 125.0.6422.78 (14db42ec38ad..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57758}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57758/devtoo..., se:cdpVersion: 125.0.6422.78, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 411726f605f486221ab11d2a23ed0cd0

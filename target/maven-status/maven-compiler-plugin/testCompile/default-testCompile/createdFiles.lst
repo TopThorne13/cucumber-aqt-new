@@ -1,0 +1,5 @@
+StepDefinitions\CartSteps.class
+StepDefinitions\SearchSteps.class
+StepDefinitions\BaseHooks.class
+TestRunner.class
+StepDefinitions\BasicSteps.class
